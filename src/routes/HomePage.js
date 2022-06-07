@@ -1,5 +1,4 @@
 import { Flex } from '@aws-amplify/ui-react'
-import { API } from 'aws-amplify'
 import React, { useEffect, useState } from 'react'
 
 function HomePage() {
